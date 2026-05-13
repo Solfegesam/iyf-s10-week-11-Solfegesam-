@@ -1,3 +1,7 @@
+<p algn="center"
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7667cf7a-4cea-4584-99c8-9bf932b844c3" />
+</p>
+
 CommunityHub API – Week 11 (Database & Authentication)
 
 📌 Overview
